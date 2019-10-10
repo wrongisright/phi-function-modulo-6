@@ -16,7 +16,7 @@ def suchn(k):
             counter = counter+1
             list.append(n)
         n=n+1
-
+#remove the hash in the following line to also get the list of n that satisfy phi(n)+phi(n+k) , for each k
     return counter, #list
 
 def  after6(k):
