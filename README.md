@@ -1,1 +1,0 @@
-# phi-function-modulo-6
